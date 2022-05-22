@@ -1,4 +1,9 @@
 {
+  "scripts": {
+    "dev": "npx zenn preview",
+    "doc": "open https://zenn.dev/zenn/articles/zenn-cli-guide",
+    "create:article": "npx zenn new:article"
+  },
   "dependencies": {
     "zenn-cli": "^0.1.106"
   }
