@@ -1,3 +1,0 @@
-[submodule "books"]
-	path = books
-	url = git@github.com:pilefort/zenn-books.git
